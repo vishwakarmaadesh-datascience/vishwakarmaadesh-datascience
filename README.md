@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I specialize in building end-to-end Machine Learning pipelines, transforming raw data into insights . My expertise spans predictive modeling, rigorous Exploratory Data Analysis (EDA), statistical modeling, and deploying robust models into production environments. 
+I'm specialize in building end-to-end Machine Learning pipelines, transforming raw data into insights . My expertise spans predictive modeling, rigorous Exploratory Data Analysis (EDA), statistical modeling, and deploying robust models into production environments. 
 
 ---
 
