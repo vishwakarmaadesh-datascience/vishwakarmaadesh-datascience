@@ -1,18 +1,27 @@
 # Hi, I'm Adesh Vishwakarma 📊👋
-
 ### Aspiring Data Scientist & Machine Learning Engineer
-📍 Mumbai, Maharashtra | 📧 vishwakarmaadesh90@gmail.com | 💼 https://www.linkedin.com/in/adesh-vishwakarma-53108b324?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-I build end-to-end Machine Learning pipelines, turning raw data into predictive web applications. My work focuses on predictive modeling, Exploratory data analysis (EDA), and deploying models into production.
-- Skills :-
-- Languages: Python (Pandas, NumPy, Scikit-learn), R, SQL (MySQL, Oracle) 
-- ML / AI / DL: Scikit-learn, TensorFlow,NLP (NLTK, spaCy), Feature Engineering 
-- MLOps & APIs: MLflow (Experiment Tracking, Model Registry), FastAPI, Uvicorn, REST API Design, Joblib 
-- Data Engineering: ETL Pipelines, Data Cleaning, Exploratory Data Analysis, Statistical Modelling 
-- BI & Visualization: Power BI, Tableau, Matplotlib, Seaborn, Google Looker Studio, Advanced Excel 
-- Tools & Platforms: Git, GitHub, Jupyter Notebooks, VS Code, Google Colab
+📍 Mumbai, Maharashtra | 📧 vishwakarmaadesh90@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/adesh-vishwakarma-53108b324)
+
 ---
 
+## 🚀 About Me
+I specialize in building end-to-end Machine Learning pipelines, transforming raw data into insights . My expertise spans predictive modeling, rigorous Exploratory Data Analysis (EDA), statistical modeling, and deploying robust models into production environments. 
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python (Pandas, NumPy, Scikit-learn), R, SQL (MySQL, Oracle) |
+| **Machine Learning & AI** | Scikit-learn, TensorFlow, Feature Engineering, NLP (NLTK, spaCy) |
+| **MLOps & APIs** | MLflow (Experiment Tracking & Model Registry), FastAPI, Uvicorn, REST API Design, Joblib |
+| **Data Engineering** | ETL Pipelines, Data Cleaning, Statistical Modelling, Exploratory Data Analysis (EDA) |
+| **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Google Looker Studio, Advanced Excel |
+| **Tools & Platforms** | Git, GitHub, Jupyter Notebooks, VS Code, Google Colab |
+
+---
 ### 🛠️ Data Science Toolkit
 
 <!-- Machine Learning & Languages -->
