@@ -1,7 +1,7 @@
 # Hi, I'm Adesh Vishwakarma 📊👋
 ### Aspiring Data Scientist & Machine Learning Engineer
 
-📍 Mumbai, Maharashtra | 📧 vishwakarmaadesh90@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/adesh-vishwakarma-53108b324)
+📍 Mumbai, Maharashtra | 📧 vishwakarmaadesh90@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/adesh-vishwakarma-53108b324) | +91 9321569101
 
 ---
 
