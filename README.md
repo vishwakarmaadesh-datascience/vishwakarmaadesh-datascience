@@ -37,9 +37,3 @@ I'm specialize in building end-to-end Machine Learning pipelines, transforming r
 
 ---
 
-### 📊 My GitHub Impact
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwakarmaadesh-datascience&show_icons=true&theme=dark" alt="Adesh's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarmaadesh-datascience&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
